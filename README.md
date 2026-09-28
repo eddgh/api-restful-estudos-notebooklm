@@ -43,10 +43,10 @@ Dentre as 37 fontes presentes nesse NotebookLM, diversificadas entre textos orga
 
 # Entrega Final - Miniguia de Estudo
 
-[<h2>- Resumos Estruturados</h2>](./resumos-estruturados.md)
-[<h2>- Estudo Guiado</h2>](estudo-guiado.md)
-[<h2>- Glossário com os principais conceitos aprendidos</h2>](/glossario.md)
-[<h2>- Conjunto de prompts reutilizáveis para futuras revisões sobre o tema</h2>](./prompts-reutilizaveis.md)
+## [- Resumos Estruturados](./resumos-estruturados.md)
+## [- Estudo Guiado>](estudo-guiado.md)
+## [- Glossário com os principais conceitos aprendidos](/glossario.md)
+## [- Conjunto de prompts reutilizáveis para futuras revisões sobre o tema](./prompts-reutilizaveis.md)
 
 <br>
 
