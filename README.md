@@ -6,12 +6,14 @@
 </p>
 
 # NotebookLM APIs, REST, RESTful
+<br>
 
 🔗[ Link para o projeto](https://notebook.google.com/notebook/0e01c5c4-d476-46a3-8959-0ccaa46f84cb)
 
 ⛏️ Ferramentas Utilizadas:
 - NotebookLM
 - Engenharia de Prompt
+<br><br>
 
 ## Contexto e objetivos
 Este NotebookLM é sobre APIs, abordando a importância do RESTful e todos os outros assuntos inerentes com o intuito de inicializar/complementar a formação de um desenvolvedor Nível Júnior para dominar APIs RESTful em Node.js. Com este Notebook é possível auxiliar qualquer pessoa de forma autodidática em um ambiente guiado para que aprenda e aplique o conhecimento de forma prática com o apoio dessa mentoria digital proporcionada pelo NotebookLM, e garantir que esta pessoa se torne um(a) profissional seguro(a) e confiante.
